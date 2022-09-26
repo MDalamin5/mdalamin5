@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **Java OOP**
 
-- 👯 I’m looking to collaborate on **GUI Project**
+- 👯 I’m looking to collaborate on **Java GUI Project**
 
-- 🤝 I’m looking for help with **Java application Project**
+- 🤝 I’m looking for help with **Java Application Project**
 
 - 📫 How to reach me **mdal.amin5@northsouth.edu**
 
