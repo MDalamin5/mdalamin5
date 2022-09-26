@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://www.facebook.com/jewel.alamin.i10)
 
 
-<h1 align="center">Hi 👋, I'm Al Amin</h1>
+<h1 align="center">Assalamu-Alaikum 👋, I'm Al Amin</h1>
 <h3 align="center">Currently, I am a North South University student in ECE department majoring in CSE.</h3>
 <img align="right" alt="Md Al Amin" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif">
 
