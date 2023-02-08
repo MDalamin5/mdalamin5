@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **Java OOP**
+- 🌱 I’m currently learning **Java OOP and DSA**
 
 - 👯 I’m looking to collaborate on **Java GUI Project**
 
