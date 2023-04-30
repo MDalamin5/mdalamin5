@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Java GUI Project**
 
-- 🤝 I’m looking for help with **Java Application Project**
+- 🤝 I’m looking for help with **DSA Related Project**
 
 - 📫 How to reach me **mdal.amin5@northsouth.edu**
 
