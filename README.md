@@ -11,9 +11,9 @@
 
 
 
-- 🌱 I’m currently learning **Java OOP and DSA**
+- 🌱 I’m currently learning **Python OOP and MySQL**
 
-- 👯 I’m looking to collaborate on **Java GUI Project**
+- 👯 I’m looking to collaborate on **DSA Or Python GUI Projects**
 
 - 🤝 I’m looking for help with **DSA Related Project**
 
