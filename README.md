@@ -24,7 +24,7 @@
 <a href="https://twitter.com/hmm_alamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hmm_alamin" height="30" width="40" /></a>
 <a href="https://fb.com/jewel.alamin.i10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jewel.alamin.i10" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammad__al.amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad__al.amin" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/nsuaralamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nsuaralamin" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nsuaralamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nsuaralamin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
