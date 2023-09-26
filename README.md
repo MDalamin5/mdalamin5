@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Django and MySQL**
 
-- 👯 I’m looking to collaborate on **DSA Or Python GUI Projects**
+- 👯 I’m looking to collaborate on **Django and MySQL Projects**
 
 - 🤝 I’m looking for help with **DSA Related Project**
 
