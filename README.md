@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **Python OOP and MySQL**
+- 🌱 I’m currently learning **Django and MySQL**
 
 - 👯 I’m looking to collaborate on **DSA Or Python GUI Projects**
 
