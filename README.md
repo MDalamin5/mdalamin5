@@ -11,11 +11,11 @@
 
 
 
-- 🌱 I’m currently learning **Django and MySQL**
+- 🌱 I’m currently learning **Django, JS & ML**
 
-- 👯 I’m looking to collaborate on **Django and MySQL Projects**
+- 👯 I’m looking to collaborate on **Django Projects**
 
-- 🤝 I’m looking for help with **DSA Related Project**
+- 🤝 I’m looking for help with **DS, Django Project**
 
 - 📫 How to reach me **mdal.amin5@northsouth.edu**
 
