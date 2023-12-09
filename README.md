@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **Django, JS & ML.**
+- 🌱 I’m currently learning **Django & ML.**
 
 - 👯 I’m looking to collaborate on **Django Projects.**
 
