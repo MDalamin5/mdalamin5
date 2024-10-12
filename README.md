@@ -11,11 +11,9 @@
 
 
 
-- 🌱 I’m currently learning **DL & NLP.**
+- 🌱 I’m currently learning **DL, NLP & Generative-AI.**
 
-- 👯 I’m looking to collaborate on **Django Projects.**
-
-- 🤝 I’m looking for help with **Django Project.**
+- 👯 I’m looking to collaborate on **ML || DL || NLP || LLM Projects.**
 
 - 📫 How to reach me **mdal.amin5@northsouth.edu**
 
