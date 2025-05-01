@@ -11,9 +11,9 @@
 
 
 
-- 🌱 I’m currently learning **ML & Generative-AI.**
+- 🌱 I’m currently learning **Agentic Ai.**
 
-- 👯 I’m looking to collaborate on **ML || CV || NLP || Gen-Ai Projects.**
+- 👯 I’m looking to collaborate on **ML || CV || Gen-Ai Projects.**
 
 - 📫 How to reach me **mdal.amin5@northsouth.edu**
 
