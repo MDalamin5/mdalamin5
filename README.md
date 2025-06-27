@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Assalamu-Alaikum 👋, I'm Al Amin</h1>
-<h3 align="center">Currently, I am a North South University student in ECE department majoring in CSE.</h3>
+<h3 align="center">As a recent graduate with a BSc in Computer Science and Engineering from North South University, I am now focused on applying my skills to build intelligent, stateful AI systems.</h3>
 <img align="right" alt="Md Al Amin" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif">
 
 
